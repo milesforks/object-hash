@@ -2,10 +2,10 @@
   "name": "object-hash",
   "version": "1.1.8",
   "description": "Generate hashes from javascript objects in node and the browser.",
-  "homepage": "https://github.com/puleos/object-hash",
+  "homepage": "https://github.com/milesforks/object-hash",
   "repository": {
     "type": "git",
-    "url": "https://github.com/puleos/object-hash"
+    "url": "https://github.com/milesforks/object-hash"
   },
   "keywords": [
     "object",
@@ -14,7 +14,7 @@
     "md5"
   ],
   "bugs": {
-    "url": "https://github.com/puleos/object-hash/issues"
+    "url": "https://github.com/milesforks/object-hash/issues"
   },
   "scripts": {
     "test": "node ./node_modules/.bin/mocha test",
